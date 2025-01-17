@@ -34,12 +34,12 @@ Test APIs in Postman
  <br>
 ` URL: http://localhost:8081/users/createUser `
 <br>
-` { 
+``` { 
   "id": 1, 
   "name": "Jane Doe", 
   "email": "jane.doe@example.com", 
   "password": "securepassword123" 
-}  `
+}  ```
 <br>
 2.Exam Service
 <br>
