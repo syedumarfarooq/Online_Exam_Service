@@ -42,20 +42,22 @@ URL: `http://localhost:8081/users/createUser`
   "email": "jane.doe@example.com",
   "password": "securepassword123"
 }
+```
 
 2.Exam Service
 <br>
-`URL: http://localhost:8082/exams/createExam  `
+URL: `http://localhost:8082/exams/createExam  `
 <br>
-`{ 
+```json{ 
   "id": 1, 
   "title": "Java Basics", 
   "description": "Introduction to Java", 
   "scheduledAt": "2025-01-25T10:00:00" 
-}`
+}
+```
 <br>
 
 3.Result-Service (POST)
 <br>
-`URL: http://localhost:8083/results/createResult `
+URL: `http://localhost:8083/results/createResult `
 <br>
