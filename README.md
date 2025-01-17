@@ -32,7 +32,8 @@ Test APIs in Postman
 ##Example Requests:
 1. User-Service (POST)
  <br>
-`URL: http://localhost:8081/users/createUser`<br>
+`URL: http://localhost:8081/users/createUser`
+<br>
 `{ 
   "id": 1, 
   "name": "Jane Doe", 
