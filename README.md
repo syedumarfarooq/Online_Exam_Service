@@ -48,7 +48,8 @@ URL: `http://localhost:8081/users/createUser`
 <br>
 URL: `http://localhost:8082/exams/createExam  `
 <br>
-```json{ 
+```json
+{ 
   "id": 1, 
   "title": "Java Basics", 
   "description": "Introduction to Java", 
