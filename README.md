@@ -31,6 +31,7 @@ Test APIs in Postman
 
 ##Example Requests:
 1. User-Service (POST)
+ <br>
 `URL: http://localhost:8081/users/createUser `
 <br>
 `{ 
@@ -38,8 +39,7 @@ Test APIs in Postman
   "name": "Jane Doe", 
   "email": "jane.doe@example.com", 
   "password": "securepassword123" 
-}
-`
+}  `
 <br>
 2.Exam Service
 <br>
