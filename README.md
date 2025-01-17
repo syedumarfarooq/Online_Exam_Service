@@ -29,12 +29,12 @@ Start each service (User-Service, Exam-Service, Result-Service) in your IDE or v
 Verify they are registered on the Eureka dashboard.
 Test APIs in Postman
 
-##Example Requests:
+## Example Requests:
 1. User-Service (POST)
  <br>
-`URL: http://localhost:8081/users/createUser `
+` URL: http://localhost:8081/users/createUser `
 <br>
-`{ 
+` { 
   "id": 1, 
   "name": "Jane Doe", 
   "email": "jane.doe@example.com", 
